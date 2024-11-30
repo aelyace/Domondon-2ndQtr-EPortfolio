@@ -1,0 +1,31 @@
+<html>
+<head><title> E_PORTFOLIO_PHOTOS</title>
+<link rel="stylesheet" href="photos.css">
+<body background="C:\Users\elish\OneDrive\Desktop\EPORT_2\background.jpg">
+<h1> PHOTOS </h1>
+
+<img src="booklandia.jpg" height="400px" width="470px" style="float:left;">
+<p style="text-align:center;"><font size="80"> BOOKLANDIA </font></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="foodsafety.jpg" height="400px" width="470px" style="float:left;">
+<p style="text-align:center;"><font size="80"> FOOD SAFETY SEMINAR </font></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="historicalicon.jpg" height="400px" width="470px" style="float:left;">
+<p style="text-align:center;"><font size="80"> HISTORICAL ICON </font></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="intrams.jpg" height="400px" width="470px" style="float:left;">
+<p style="text-align:center;"><font size="80"> INTRAMURALS </font></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<img src="vpop.jpg" height="400px" width="470px" style="float:left;">
+<p style="text-align:center;"><font size="80"> VPOP </font></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+</body>
+</html>
