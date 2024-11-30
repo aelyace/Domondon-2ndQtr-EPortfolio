@@ -1,0 +1,27 @@
+h1 {text-align:center;
+    background-color:#214662;
+    color:#F8F5F1;
+}
+
+p {text-align:center;
+   background-color:#B4C4D0;
+   color:#214662;
+   display: block;
+   line-height: 30px;
+   float:left;
+
+}
+
+h4 {text-align:center;
+    background-color:#214662;
+    color:#F8F5F1;
+}
+
+h3 {background-color:#214662;
+    color:#F8F5F1;
+    width:100px;
+    text-align:center;
+}
+
+img {float:center;
+}
