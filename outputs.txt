@@ -1,9 +1,36 @@
 <html>
-<head><title>E_PORTFOLIO_OUTPUTS</title>
+<head><title>E_PORTFOLIO_OUTPUTS</title></head>
 <link rel="spreadsheet" href="outputs.css">
-<body background="C:\Users\elish\OneDrive\Desktop\EPORT_2\background.jpg">
-<h1> OUTPUTS </h1>
+
+<body background="background.jpg">
+<h1 style="text-align:center;
+    background-color:#214662;
+    color:#F8F5F1;"
+> OUTPUTS </h1>
+
 <body>
+
+<img src="inlinecode.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="inlineoutputpic.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="embeddedcode.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="embeddedoutputpic.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="linkedcode.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="linkedcodecss.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="linkedcssoutput.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p style="display:block; line-height:50px; color:#214662; background-color:#E1DFE1; text-align:center;"> <font size="80"> LESSON 1, 2 & 3</font></p>
+
+<img src="lesson3code.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="lesson3output.png" height="400px" width="470px" style="float:left;">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p style="display:block; line-height:50px; color:#214662; background-color:#E1DFE1; text-align:center;"> <font size="80"> LESSON 4, 5 & 6</font></p>
 
 
 

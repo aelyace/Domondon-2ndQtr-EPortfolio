@@ -1,7 +1,7 @@
 <html>
 <head><title> E_PORTFOLIO_PHOTOS</title>
 <link rel="stylesheet" href="photos.css">
-<body background="C:\Users\elish\OneDrive\Desktop\EPORT_2\background.jpg">
+<body background="background.jpg">
 <h1> PHOTOS </h1>
 
 <img src="booklandia.jpg" height="400px" width="470px" style="float:left;">
