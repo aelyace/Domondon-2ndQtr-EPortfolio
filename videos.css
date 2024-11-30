@@ -1,0 +1,11 @@
+h1 {text-align:center;
+    background-color:#214662;
+    color:#F8F5F1;
+}
+
+p {
+    display:block;
+    line-height:50px;
+    color:#214662;
+    background-color:#E1DFE1;
+}

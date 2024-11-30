@@ -1,0 +1,42 @@
+<html>
+<head><title> E_PORTFOLIO_REFLECTION</title>
+<link rel="stylesheet" href="aboutme.css">
+<body background="C:\Users\elish\OneDrive\Desktop\EPORT_2\background.jpg">
+<h1> REFLECTION </h1>
+<body>
+
+<h4> Songs to listen while browsing </h4>
+
+<table align="center">
+<tr align="center">
+
+<td> <audio controls>
+<source src="spell.mp3" type="audio/mp3">
+</audio></td>
+
+<td> <audio controls> 
+<source src="apt.mp3" type="audio/mp3">
+</audio></td>
+
+<td> <audio controls>
+<source src="debut.mp3" type="audio/mp3">
+</audio></td>
+
+</tr>
+</table>
+
+<br><br>
+
+
+<p> <font size="4">
+During this quarter, I have learned and gained a lot of information about coding. We were given the chance to further deepen our knowledge about last year's topic which was CSS. This quarter, I found out that there is so much more about it than I have thought. At first, I found it quite difficult to understand as it was my first time encountering such thing. But as we went further, It started to grown on me. It showed me that with a simple help of CSS, we are able to further expand our creativity and imagination when making our websites. It is surely no joke to what our technology can further develop into. The next quarters that we are going to encounter, I am anticipating that our lessons will get more and more complex and a tad bit harder to execute. I know that as of now, I am nowhere near good, but there's always room for improvement as long as we keep trying.
+</font>
+</p>
+</body>
+</html>
+
+
+
+
+
+
